@@ -1,6 +1,6 @@
 <!-- Apresentação  --> 
 
-<h1>Salve! Me chamo Claudionei, mas pode me chamar de Play.</h1>
+<h2>Salve! Me chamo Claudionei, mas pode me chamar de Play.</h2>
 <h3 align="center">Amo desenvolver em Python, como você mesmo pode ver.</h3>
 
 <!-- Parte de contribuições para o Github  -->
